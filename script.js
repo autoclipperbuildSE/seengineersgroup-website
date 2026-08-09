@@ -1,0 +1,1 @@
+document.querySelectorAll('.menu-toggle').forEach(function(button){button.addEventListener('click',function(){var nav=button.parentElement.querySelector('.nav-links');var open=nav.classList.toggle('open');button.setAttribute('aria-expanded',open?'true':'false');});});

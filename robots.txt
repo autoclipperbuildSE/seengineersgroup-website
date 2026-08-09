@@ -1,17 +1,3 @@
-AUTO CLIPPER WEBSITE LOGO UPDATE
-
-Upload the complete contents of this folder to the website repository.
-The approved Auto Clipper logo has been inserted in:
-- Header on index.html, privacy.html, terms.html and contact.html
-- Footer on index.html
-- Product identity card on index.html
-- Contact page logo
-- Open Graph social preview
-- Browser/favicon and touch icon assets
-
-After uploading, commit and push:
-  git add .
-  git commit -m "Update Auto Clipper website logo"
-  git push origin main
-
-Then refresh the live website with Ctrl+F5.
+User-agent: *
+Allow: /
+Sitemap: https://www.seengineersgroup.com/sitemap.xml
